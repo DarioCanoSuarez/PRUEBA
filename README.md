@@ -10,4 +10,4 @@ Facilita que múltiples personas trabajen a la vez en el mismo proyecto sin pisa
 ### **Gestión de proyectos:**
 Incluye herramientas de seguimiento de tareas (*issues*), tableros al **estilo Kanban** y documentación integrada, facilitando la organización técnica de cualquier proyecto de desarrollo.
 _______________________________________________________________________________________________________________________________________________________
-![FOTO METODOLOGÍA KANBAN](https://www.irbootcamp.com/wp-content/uploads/2021/12/Imagen-Post-IR-Blog-1024x683.jpg)
+![FOTO METODOLOGÍA KANBAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR01JExRZ_HBdY4WKx9K0eUvQztIbNTvMxvPRXr5DmzOYrNQvgf4seI4LX&s=10)
