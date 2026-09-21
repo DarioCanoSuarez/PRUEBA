@@ -8,4 +8,4 @@ Funciona como un sistema centralizado donde los desarrolladores pueden subir el 
 Facilita que múltiples personas trabajen a la vez en el mismo proyecto sin pisarse el código, mediante el uso de ramas (*branches*), fusiones (*merges*) y revisiones (*pull requests*) 
 ### **Gestión de proyectos:**
 Incluye herramientas de seguimiento de tareas (*issues*), tableros al **estilo Kanban** y documentación integrada, facilitando la organización técnica de cualquier proyecto de desarrollo.
-![FOTO METODOLOGÍA KANBAN]([https://impulso06.com/wp-content/uploads/2023/10/Kanban-y-la-Gestion-del-Tiempo-Como-Hacer-Mas-con-Menos-Estres.png](https://www.irbootcamp.com/wp-content/uploads/2021/12/Imagen-Post-IR-Blog-1024x683.jpg)
+![FOTO METODOLOGÍA KANBAN](https://www.irbootcamp.com/wp-content/uploads/2021/12/Imagen-Post-IR-Blog-1024x683.jpg)
