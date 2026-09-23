@@ -13,6 +13,3 @@ Incluye herramientas de seguimiento de tareas (*issues*), tableros al **estilo K
 _______________________________________________________________________________________________________________________________________________________
 ![FOTO METODOLOGÍA KANBAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR01JExRZ_HBdY4WKx9K0eUvQztIbNTvMxvPRXr5DmzOYrNQvgf4seI4LX&s=10)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-| Aspecto | Detalle |
-| :--- | :--- |
-| **Año de Fundación** | 2008 |
