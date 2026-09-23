@@ -10,6 +10,6 @@ Funciona como un sistema centralizado donde los desarrolladores pueden subir el 
 Facilita que múltiples personas trabajen a la vez en el mismo proyecto sin pisarse el código, mediante el uso de ramas (*branches*), fusiones (*merges*) y revisiones (*pull requests*) 
 ### **Gestión de proyectos:**
 Incluye herramientas de seguimiento de tareas (*issues*), tableros al **estilo Kanban** y documentación integrada, facilitando la organización técnica de cualquier proyecto de desarrollo.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-![FOTO METODOLOGÍA KANBAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR01JExRZ_HBdY4WKx9K0eUvQztIbNTvMxvPRXr5DmzOYrNQvgf4seI4LX&s=10)
 _______________________________________________________________________________________________________________________________________________________
+![FOTO METODOLOGÍA KANBAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR01JExRZ_HBdY4WKx9K0eUvQztIbNTvMxvPRXr5DmzOYrNQvgf4seI4LX&s=10)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
