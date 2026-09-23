@@ -21,3 +21,8 @@ ________________________________________________________________________________
 ![FOTO MICROSOFT](https://i.blogs.es/ed750c/microsoft-ai/500_333.jpeg)
 >**Imagen:** Logo Microsoft.
 _____________________________________________________________________________________________________________________________________________________
+# ¿QUÉ ES GITHUB COPILOT?
+Es un asistente de programación basado en Inteligencia Artificial (IA), que está desarrollado por GitHub y OpenAI, que sugiere líneas de código, funciones completas y documentación en tiempo real dentro del editor.
+_____________________________________________________________________________________________________________________________________________________
+![FOTO GITHUB COPILOT](https://ausum.cloud/wp-content/uploads/2024/01/github-copilot-microsoft-ausum-cloud.png)
+>**Imagen:** Logo GitHub Copilot.
