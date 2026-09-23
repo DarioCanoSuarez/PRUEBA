@@ -1,7 +1,7 @@
 # ¿QUÉ ES GITHUB?
 GitHub es una plataforma basada en la web que se utiliza para el **almacenamiento de código fuente**, el control de versiones y la colaboración en proyectos de desarrollo de software.
-______________________________________________________________________________________________________________________________________________________|
-![FOTO GITHUB](https://www.softzone.es/app/uploads-softzone.es/2025/06/EkzgR2HZUcZPGQs9HlDN0eaLBwGsdLhrStYW5u53.jpg?x=500&y=295&quality=80)*|*
+______________________________________________________________________________________________________________________________________________________
+![FOTO GITHUB](https://www.softzone.es/app/uploads-softzone.es/2025/06/EkzgR2HZUcZPGQs9HlDN0eaLBwGsdLhrStYW5u53.jpg?x=500&y=295&quality=80)|
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ¿CÓMO SE DIVIDE?
 ### **Control de versiones con Git:**
