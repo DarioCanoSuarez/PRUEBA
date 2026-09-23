@@ -26,3 +26,4 @@ Es un asistente de programación basado en Inteligencia Artificial (IA), que est
 _____________________________________________________________________________________________________________________________________________________
 ![FOTO GITHUB COPILOT](https://ausum.cloud/wp-content/uploads/2024/01/github-copilot-microsoft-ausum-cloud.png)
 >**Imagen:** Logo GitHub Copilot.
+## ¿QUÉ DIFERENCIA HAY ENTRE GIT, GITHUB Y GITHUB COPILOT?
