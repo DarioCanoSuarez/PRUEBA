@@ -24,7 +24,7 @@ ________________________________________________________________________________
 # ¿QUÉ ES GITHUB COPILOT?
 Es un asistente de programación basado en Inteligencia Artificial (IA), que está desarrollado por GitHub y OpenAI, que sugiere líneas de código, funciones completas y documentación en tiempo real dentro del editor.
 _____________________________________________________________________________________________________________________________________________________
-![FOTO GITHUB COPILOT](https://ausum.cloud/wp-content/uploads/2024/01/github-copilot-microsoft-ausum-cloud.png)
+![FOTO GITHUB COPILOT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQM7rqks1VLh0hj2CE3TSo3fPz5bsMKMCuiosSvwE1Y5ehKaEhawCj5YX&s=10)
 >**Imagen:** Logo GitHub Copilot.
 ## ¿QUÉ DIFERENCIA HAY ENTRE GIT, GITHUB Y GITHUB COPILOT?
 _____________________________________________________________________________________________________________________________________________________
