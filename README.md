@@ -27,7 +27,11 @@ ________________________________________________________________________________
 ![FOTO GITHUB COPILOT](https://ausum.cloud/wp-content/uploads/2024/01/github-copilot-microsoft-ausum-cloud.png)
 >**Imagen:** Logo GitHub Copilot.
 ## ¿QUÉ DIFERENCIA HAY ENTRE GIT, GITHUB Y GITHUB COPILOT?
+_____________________________________________________________________________________________________________________________________________________
 | CARACTERÍSTICA | GIT | GITHUB | GITHUB COPILOT |
 | :--- | :--- | :--- | :--- |
-| ¿QUÉ ES? | Un sistema de control de versiones ejecutable localmente. | Una plataforma en la nube para tener y colaborar con códigos fuente. | Un asistente de Inteligencia Artificial para programar. |
-| ¿DÓNDE FUNCIONA? | En un ordenador propio. | En servidores web accesibles con navegador. | Dentro de tu editor de códigos. |
+| **¿QUÉ ES?** | Un sistema de control de versiones ejecutable localmente. | Una plataforma en la nube para tener y colaborar con códigos fuente. | Un asistente de Inteligencia Artificial para programar. |
+| **¿DÓNDE FUNCIONA?** | En un ordenador propio. | En servidores web accesibles con navegador. | Dentro de tu editor de códigos. |
+| **FUNCIÓN** | Guardar el historial de cambio de códigos. | Almacenar repositorios en la nube y gestionar proyectos. | Sugerir líneas de código y responder preguntas en tiempo real. |
+| **¿NECESITA INTERNET?** | NO | SÍ | SÍ |
+| **CREADOR** | Linus Torvalds (2005) | Desarrollado en 2008. Propiedad de Microsoft desde 2018. | Colaboración de GitHub y OpenAI. |
