@@ -2,7 +2,7 @@
 GitHub es la plataforma de desarrollo colaborativo más grande del mundo, construida sobre el sistema de control de versiones ***Git***. Funciona como una red social y una nube para el código fuente, permitiendo a desarrolladores almacenar, gestionar y rastrear cambios en sus proyectos.
 ______________________________________________________________________________________________________________________________________________________
 ![FOTO GITHUB](https://www.softzone.es/app/uploads-softzone.es/2025/06/EkzgR2HZUcZPGQs9HlDN0eaLBwGsdLhrStYW5u53.jpg?x=500&y=295&quality=80)           
->**Imagen::** GitHub.
+>**Imagen::** Logo GitHub.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ¿CÓMO SE DIVIDE?
 ### **Control de versiones con Git:**
@@ -16,3 +16,6 @@ ________________________________________________________________________________
 >**Imagen:** Metodología Kanban.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 # ¿QUÉ EMPRESA HAY DETRÁS?
+La empresa detrás de GitHub es **Microsoft** que la adquirió en 2018 por 7.500 millones de dólares.
+![FOTO MICROSOFT](https://i.blogs.es/ed750c/microsoft-ai/500_333.jpeg)
+>**Imagen:** Logo Microsoft.
