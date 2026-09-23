@@ -1,7 +1,7 @@
 # ¿QUÉ ES GITHUB?
 GitHub es la plataforma de desarrollo colaborativo más grande del mundo, construida sobre el sistema de control de versiones ***Git***. Funciona como una red social y una nube para el código fuente, permitiendo a desarrolladores almacenar, gestionar y rastrear cambios en sus proyectos.
 _______________________________________________________________________________________________________________________________________________________
-![FOTO GITHUB](https://www.softzone.es/app/uploads-softzone.es/2025/06/EkzgR2HZUcZPGQs9HlDN0eaLBwGsdLhrStYW5u53.jpg?x=500&y=295&quality=80)           
+![FOTO GITHUB](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F477108e0bf66b21f6c47f145bbc6777d23220ac5-1200x630.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)           
 >**Imagen::** Logo GitHub.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ¿CÓMO SE DIVIDE?
@@ -12,13 +12,13 @@ Facilita que múltiples personas trabajen a la vez en el mismo proyecto sin pisa
 ### **Gestión de proyectos:**
 Incluye herramientas de seguimiento de tareas (*issues*), tableros al **estilo Kanban** y documentación integrada, facilitando la organización técnica de cualquier proyecto de desarrollo.
 _______________________________________________________________________________________________________________________________________________________
-![FOTO METODOLOGÍA KANBAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR01JExRZ_HBdY4WKx9K0eUvQztIbNTvMxvPRXr5DmzOYrNQvgf4seI4LX&s=10)
+![FOTO METODOLOGÍA KANBAN](https://universidadeuropea.com/resources/media/images/kanban-1200x630.original.webp)
 >**Imagen:** Metodología Kanban.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 # ¿QUÉ EMPRESA HAY DETRÁS?
 La empresa detrás de GitHub es **Microsoft** que la adquirió en 2018 por 7.500 millones de dólares.
 _____________________________________________________________________________________________________________________________________________________
-![FOTO MICROSOFT](https://i.blogs.es/ed750c/microsoft-ai/500_333.jpeg)
+![FOTO MICROSOFT](https://assets.qz.com/media/what-is-microsoft-company-qz-1200x630.jpg)
 >**Imagen:** Logo Microsoft.
 _____________________________________________________________________________________________________________________________________________________
 # ¿QUÉ ES GITHUB COPILOT?
