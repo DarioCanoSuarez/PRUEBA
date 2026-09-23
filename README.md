@@ -30,5 +30,4 @@ ________________________________________________________________________________
 | CARACTERÍSTICA | GIT | GITHUB | GITHUB COPILOT |
 | :--- | :--- | :--- | :--- |
 | ¿QUÉ ES? | Un sistema de control de versiones ejecutable localmente. | Una plataforma en la nube para tener y colaborar con códigos fuente. | Un asistente de Inteligencia Artificial para programar. |
-| :--- | :--- | :--- | :--- |
 | ¿DÓNDE FUNCIONA? | En un ordenador propio. | En servidores web accesibles con navegador. | Dentro de tu editor de códigos. |
