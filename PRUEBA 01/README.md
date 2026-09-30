@@ -9,8 +9,8 @@ Para obtener una cuenta en **GitHub Education** primero debemos tener cuenta en 
 _____________________________________________________________________________________________________________________________________________________
 ![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/maxresdefault.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-### 2. SOLICITAMOS VERIFICACIÓN
-Entramos en nuestro perfil, en configuración, y solicitamos la verificación de los emails.
+### 2. REVISAMOS QUE ESTÉN VERIFICADOS AMBOS EMAILS
+Entramos en nuestro perfil, en configuración, y revisamos la verificación de los emails y hacemos la doble autentificación de emails con la aplicación **Google Authenticator**.
 _____________________________________________________________________________________________________________________________________________________
 ![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/Captura%20de%20pantalla%202026-09-30%20100022.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
