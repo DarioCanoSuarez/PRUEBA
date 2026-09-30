@@ -24,4 +24,4 @@ Tras realizar estos pasos, te preguntará porque no te encuentras en el centro, 
 ### 4. ¿CUÁNDO TE ACEPTAN?
 En lo general, según acabas la solicitud, tarda un par de minutos en que te acepten la solicitud, y unos tres días en recibir el acceso a GitHub Education.
 _____________________________________________________________________________________________________________________________________________________
-![IMAGEN]()
+![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/FOTO%20GITHUB%20COPILOT.png)
