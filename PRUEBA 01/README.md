@@ -7,7 +7,7 @@
 _____________________________________________________________________________________________________________________________________________________
 Para obtener una cuenta en **GitHub Education** primero debemos tener cuenta en **GitHub**, para ello debemos darle *click* a **"crear cuenta** e introducir tu correo personal debido a que el de *g.educaand* no permite su uso para darse de alta en la aplicación. Después en los ajustes buscaremos la opción de adjuntar un segundo correo electrónico, y ahí sí pondremos el del instituto. Esto nos mandará un correo de verificación al gmail personal que deberemos aceptar para poder proseguir.
 _____________________________________________________________________________________________________________________________________________________
-![IMAGEN]()
+![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/maxresdefault.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### 2. SOLICITAMOS VERIFICACIÓN
 Entramos en nuestro perfil, en configuración, y solicitamos la verificación de los emails.
