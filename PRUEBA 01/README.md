@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ### 2. SOLICITAMOS VERIFICACIÓN
 Entramos en nuestro perfil, en configuración, y solicitamos la verificación de los emails.
 _____________________________________________________________________________________________________________________________________________________
-![IMAGEN]()
+![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/Captura%20de%20pantalla%202026-09-30%20100022.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### 3. TE VA A PEDIR
 1. ¿Qué eres? : Estudiante
@@ -24,4 +24,4 @@ Tras realizar estos pasos, te preguntará porque no te encuentras en el centro, 
 ### 4. ¿CUÁNDO TE ACEPTAN?
 En lo general, según acabas la solicitud, tarda un par de minutos en que te acepten la solicitud, y unos tres días en recibir el acceso a GitHub Education.
 _____________________________________________________________________________________________________________________________________________________
-![IMAGEN](https://github.com/DarioCanoSuarez/PRUEBA/blob/main/PRUEBA%2001/IM%C3%81GENES/Captura%20de%20pantalla%202026-09-30%20100022.png)
+![IMAGEN]()
